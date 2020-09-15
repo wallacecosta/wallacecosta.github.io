@@ -146,6 +146,10 @@ section {
         display: block;
     }
 
+    #welcome-section {
+        padding-top: 1rem;
+    }
+
     #contact {
         bottom: 0;
         left: 0;
